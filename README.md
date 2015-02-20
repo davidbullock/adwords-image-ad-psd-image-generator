@@ -21,4 +21,4 @@ Organised structure for all AdWords Image Ad dimensions. Contains master .psd fi
 - Billboard: 970 x 250
 - Portrait: 300 x 1050
 
-## Be sure to update layer comps each time they are edited!
+Please note - be sure to update layer comps each time an ad.psd file is edited!
