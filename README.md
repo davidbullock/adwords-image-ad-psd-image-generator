@@ -1,7 +1,7 @@
 AdWords Image Ad PSD Image Generator
 ====================================
 
-Organised structure for all AdWords Image Ad dimensions. Contains master .psd file and placed link ad .psd files. Using Adobe Photoshop CC with Generator you can quickly output all of your images in one save for multiple ad campaigns.
+Organised structure for all AdWords Image Ad dimensions. Contains master .psd file and placed link ad .psd files. Using Adobe Photoshop CC with Generator you can quickly output all of your images with one save for multiple ad campaigns.
 
 ## Dimensions listed in AdWords:
 
